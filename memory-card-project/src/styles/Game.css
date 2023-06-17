@@ -1,0 +1,21 @@
+.image {
+  width: 300px;
+  height: 200px;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+.image:hover {
+  transform: scale(1.05);
+}
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.game-rule {
+  font-weight: 700;
+  font-size: large;
+}
+.image-name {
+  font-weight: 700;
+  font-size: 18px;
+}
